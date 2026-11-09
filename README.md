@@ -174,6 +174,7 @@
 
 - [Battle for Wesnoth](http://www.wesnoth.org/) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat. [![Open-Source Software][OSS Icon]](https://github.com/wesnoth) ![Freeware][Freeware Icon]
 - [Boxer](http://boxerapp.com/) - The DOS game emulator that’s fit for your Mac. [![Open-Source Software][OSS Icon]](https://github.com/alunbestor/Boxer) ![Freeware][Freeware Icon]
+- [Brass Pawn](https://brasspawn.com) - Offline chess tactics, positional judgement, and endgame trainer powered by on-device Stockfish 18 and Reckless engines. [![Open-Source Software][OSS Icon]](https://github.com/minchopm/chess-trainer)
 - [Dolphin](https://dolphin-emu.org) - A powerful, Open Source emulator for Nintendo GameCube and Wii games. [![Open-Source Software][OSS Icon]](https://github.com/dolphin-emu/dolphin) ![Freeware][Freeware Icon]
 - [OpenEmu](http://openemu.org/) - Multiple Video Game System. [![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon]
 - [Screentendo](http://aaronrandall.com/blog/screentendo/) - Turn your screen into a playable level of Mario. [![Open-Source Software][OSS Icon]](https://github.com/AaronRandall/Screentendo) ![Freeware][Freeware Icon]
